@@ -6,6 +6,10 @@ Miembros:
 
 * Laura Catalina Fernandez Carmona.
 
-* Sara Elizabeth Martines Osorio.
+* Sara Elizabeth Martinez Osorio.
+
+¿Qué contiene este repositorio?
+
+* ETL: contiene los códigos de .py para generar las ETL de los datos de temperatura y presión atmosferica.
 
 
